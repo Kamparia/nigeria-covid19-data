@@ -14,6 +14,9 @@ Cases summary in Nigeria as at March 23rd, 2020
 ### Data Sources
 This dataset is collected from official statements presented by [Nigeria Centre for Disease Control (NCDC)](http:covid19.ncdc.gov.ng).
 
+### Update Frequency
+We update our dataset as often as neccessary when new cases are dicovered (or at least once a day).
+
 ### Contribution
 I am hoping that this can become a collaborative and transparent project by all Nigerians. You can contribute either by updating or analyzing the dataset. Please use the GitHub Issues to make any long suggestion or discusssion.
 

@@ -65,7 +65,7 @@
     "POP_2016": 6386388,
     "DEN_2016": 131.6880035,
     "GDP_2010_U": 4713,
-    "CASES": 0,
+    "CASES": 1,
     "DEATHS": 0,
     "RECOVERED": 0
   },
@@ -165,7 +165,7 @@
     "GDP_2010_U": 11888,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 1
+    "RECOVERED": 0
   },
   {
     "OBJECTID": 13,
@@ -205,7 +205,7 @@
     "POP_2016": 2996670,
     "DEN_2016": 405.605011,
     "GDP_2010_U": 3285,
-    "CASES": 7,
+    "CASES": 8,
     "DEATHS": 1,
     "RECOVERED": 0
   },
@@ -347,7 +347,7 @@
     "GDP_2010_U": 33679,
     "CASES": 29,
     "DEATHS": 0,
-    "RECOVERED": 1
+    "RECOVERED": 2
   },
   {
     "OBJECTID": 26,

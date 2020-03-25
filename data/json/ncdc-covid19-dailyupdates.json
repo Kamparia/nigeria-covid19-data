@@ -1,5 +1,13 @@
 [
   {
+    "Date": "25/03/2020",
+    "Total Confirmed": 46,
+    "New Cases": 2,
+    "Active Cases": 43,
+    "Deaths": 1,
+    "Recoveries": 2
+  },
+  {
     "Date": "24/03/2020",
     "Total Confirmed": 44,
     "New Cases": 4,

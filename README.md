@@ -8,7 +8,7 @@ Cases summary in Nigeria as at March 23rd, 2020
 
 | Total Confirmed Cases    | Active Cases  | Recovered  | Deaths  |
 | ------------------------ |:-------------:|:----------:| -------:|
-| 44                       | 41            | 2         | 1       |
+| 46                       | 43            | 2         | 1       |
 
 ### Data Sources
 This dataset is collected from official statements presented by [Nigeria Centre for Disease Control (NCDC)](http:covid19.ncdc.gov.ng).

@@ -8,18 +8,19 @@ Cases summary in Nigeria as at March 26th, 2020
 
 | Total Confirmed Cases    | Deaths  | Recovered  | Active Cases  |
 | ------------------------ |:-------:|:----------:| -------------:|
-| 51                       | 1       | 2          | 48            |
+| 65                       | 1       | 3          | 61            |
 
 Breakdown of confirmed cases by state - March 26th, 2020
 
 | State                    | Confirmed Cases | Deaths  | Recovered  | Active Cases  |
 | ------------------------ |:---------------:|:-------:|:----------:| -------------:|
-| Abuja FCT                | 10              | 1       | 0          | 10            |
+| Abuja FCT                | 12              | 1       | 0          | 11            |
 | Bauchi                   | 1               | 0       | 0          | 1             |
 | Edo                      | 1               | 0       | 0          | 1             |
 | Ekiti                    | 1               | 0       | 0          | 1             |
-| Lagos                    | 32              | 0       | 2          | 30            |
+| Lagos                    | 44              | 0       | 3          | 41            |
 | Ogun                     | 3               | 0       | 0          | 3             |
+| Osun                     | 1               | 0       | 0          | 1             |
 | Oyo                      | 1               | 0       | 0          | 1             |
 | Rivers                   | 1               | 0       | 0          | 1             |
 

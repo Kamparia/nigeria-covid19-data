@@ -205,7 +205,7 @@
     "POP_2016": 2996670,
     "DEN_2016": 405.605011,
     "GDP_2010_U": 3285,
-    "CASES": 10,
+    "CASES": 12,
     "DEATHS": 1,
     "RECOVERED": 0
   },
@@ -345,9 +345,9 @@
     "POP_2016": 12102238,
     "DEN_2016": 3269.600098,
     "GDP_2010_U": 33679,
-    "CASES": 32,
+    "CASES": 44,
     "DEATHS": 0,
-    "RECOVERED": 2
+    "RECOVERED": 3
   },
   {
     "OBJECTID": 26,
@@ -516,19 +516,5 @@
     "CASES": 0,
     "DEATHS": 0,
     "RECOVERED": 0
-  },
-  {
-    "OBJECTID": "",
-    "CODE": "",
-    "STATE": "",
-    "ADMIN_NAME": "",
-    "GEO_ZONE": "",
-    "AREA_SQKM": "",
-    "POP_2016": "",
-    "DEN_2016": "",
-    "GDP_2010_U": "",
-    "CASES": 46,
-    "DEATHS": 1,
-    "RECOVERED": 2
   }
 ]

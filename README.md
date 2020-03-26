@@ -4,7 +4,7 @@ On 11th of March, 2020, The World Health Organization (WHO) [declared the COVID-
 The dataset contains the latest available public data on COVID-19 infections in Nigeria. For easy usage and accessibility, the data are provided in various formats including CSV, JSON and Geospatial Shapefiles.
 
 ### Data Summary
-Cases summary in Nigeria as at March 23rd, 2020
+Cases summary in Nigeria as at March 26th, 2020
 
 | Total Confirmed Cases    | Deaths  | Recovered  | Active Cases  |
 | ------------------------ |:-------:|:----------:| -------------:|

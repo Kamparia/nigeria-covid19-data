@@ -11,7 +11,9 @@
     "GDP_2010_U": 8687,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 5.453302119,
+    "LONG": 7.523189982
   },
   {
     "OBJECTID": 2,
@@ -25,7 +27,9 @@
     "GDP_2010_U": 4582,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 9.323227332,
+    "LONG": 12.40024078
   },
   {
     "OBJECTID": 3,
@@ -39,7 +43,9 @@
     "GDP_2010_U": 11179,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 4.907245026,
+    "LONG": 7.846394928
   },
   {
     "OBJECTID": 4,
@@ -53,7 +59,9 @@
     "GDP_2010_U": 6764,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.222775877,
+    "LONG": 6.932186089
   },
   {
     "OBJECTID": 5,
@@ -67,7 +75,9 @@
     "GDP_2010_U": 4713,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 10.79664717,
+    "LONG": 9.990588234
   },
   {
     "OBJECTID": 6,
@@ -81,7 +91,9 @@
     "GDP_2010_U": 4337,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 4.766315328,
+    "LONG": 6.08041884
   },
   {
     "OBJECTID": 7,
@@ -95,7 +107,9 @@
     "GDP_2010_U": 6864,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 7.341086058,
+    "LONG": 8.751907951
   },
   {
     "OBJECTID": 8,
@@ -109,7 +123,9 @@
     "GDP_2010_U": 5175,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 11.86524255,
+    "LONG": 13.09877091
   },
   {
     "OBJECTID": 9,
@@ -123,7 +139,9 @@
     "GDP_2010_U": 9292,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 5.845901003,
+    "LONG": 8.59875592
   },
   {
     "OBJECTID": 10,
@@ -137,7 +155,9 @@
     "GDP_2010_U": 16749,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 5.704898235,
+    "LONG": 5.936929598
   },
   {
     "OBJECTID": 11,
@@ -151,7 +171,9 @@
     "GDP_2010_U": 2732,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.262027249,
+    "LONG": 8.016266263
   },
   {
     "OBJECTID": 12,
@@ -165,7 +187,9 @@
     "GDP_2010_U": 11888,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.633537265,
+    "LONG": 5.93021466
   },
   {
     "OBJECTID": 13,
@@ -179,7 +203,9 @@
     "GDP_2010_U": 2848,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 7.720080404,
+    "LONG": 5.309515527
   },
   {
     "OBJECTID": 14,
@@ -193,7 +219,9 @@
     "GDP_2010_U": 4396,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.536244896,
+    "LONG": 7.440611163
   },
   {
     "OBJECTID": 15,
@@ -207,7 +235,9 @@
     "GDP_2010_U": 3285,
     "CASES": 12,
     "DEATHS": 1,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 8.897617232,
+    "LONG": 7.195557236
   },
   {
     "OBJECTID": 16,
@@ -221,7 +251,9 @@
     "GDP_2010_U": 2501,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 10.38358785,
+    "LONG": 11.19199514
   },
   {
     "OBJECTID": 17,
@@ -235,7 +267,9 @@
     "GDP_2010_U": 14212,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 5.573020021,
+    "LONG": 7.062307591
   },
   {
     "OBJECTID": 18,
@@ -249,7 +283,9 @@
     "GDP_2010_U": 2988,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 12.23842042,
+    "LONG": 9.563558283
   },
   {
     "OBJECTID": 19,
@@ -263,7 +299,9 @@
     "GDP_2010_U": 10334,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 10.39236691,
+    "LONG": 7.705978606
   },
   {
     "OBJECTID": 20,
@@ -277,7 +315,9 @@
     "GDP_2010_U": 12393,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 11.74520194,
+    "LONG": 8.529557183
   },
   {
     "OBJECTID": 21,
@@ -291,7 +331,9 @@
     "GDP_2010_U": 6022,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 12.37830071,
+    "LONG": 7.628834204
   },
   {
     "OBJECTID": 22,
@@ -305,7 +347,9 @@
     "GDP_2010_U": 3290,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 11.74395642,
+    "LONG": 4.51668667
   },
   {
     "OBJECTID": 23,
@@ -319,7 +363,9 @@
     "GDP_2010_U": 4642,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 7.736607886,
+    "LONG": 6.686754337
   },
   {
     "OBJECTID": 24,
@@ -333,7 +379,9 @@
     "GDP_2010_U": 3841,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 8.965933764,
+    "LONG": 4.385168584
   },
   {
     "OBJECTID": 25,
@@ -347,7 +395,9 @@
     "GDP_2010_U": 33679,
     "CASES": 44,
     "DEATHS": 0,
-    "RECOVERED": 3
+    "RECOVERED": 3,
+    "LAT": 6.52242433,
+    "LONG": 3.586974902
   },
   {
     "OBJECTID": 26,
@@ -361,7 +411,9 @@
     "GDP_2010_U": 3022,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 8.510446426,
+    "LONG": 8.19796222
   },
   {
     "OBJECTID": 27,
@@ -375,7 +427,9 @@
     "GDP_2010_U": 6002,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 9.933226341,
+    "LONG": 5.590434858
   },
   {
     "OBJECTID": 28,
@@ -389,7 +443,9 @@
     "GDP_2010_U": 10470,
     "CASES": 3,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.995135101,
+    "LONG": 3.473261779
   },
   {
     "OBJECTID": 29,
@@ -403,7 +459,9 @@
     "GDP_2010_U": 8414,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 6.917995343,
+    "LONG": 5.150609212
   },
   {
     "OBJECTID": 30,
@@ -417,7 +475,9 @@
     "GDP_2010_U": 7280,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 7.562918519,
+    "LONG": 4.51776227
   },
   {
     "OBJECTID": 31,
@@ -431,7 +491,9 @@
     "GDP_2010_U": 16121,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 8.158826811,
+    "LONG": 3.612911627
   },
   {
     "OBJECTID": 32,
@@ -445,7 +507,9 @@
     "GDP_2010_U": 5154,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 9.232416151,
+    "LONG": 9.512049504
   },
   {
     "OBJECTID": 33,
@@ -459,7 +523,9 @@
     "GDP_2010_U": 21073,
     "CASES": 1,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 4.845392316,
+    "LONG": 6.918181455
   },
   {
     "OBJECTID": 34,
@@ -473,7 +539,9 @@
     "GDP_2010_U": 4818,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 13.03799337,
+    "LONG": 5.318810473
   },
   {
     "OBJECTID": 35,
@@ -487,7 +555,9 @@
     "GDP_2010_U": 3397,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 8.023131157,
+    "LONG": 10.78647944
   },
   {
     "OBJECTID": 36,
@@ -501,7 +571,9 @@
     "GDP_2010_U": 2011,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 12.37621509,
+    "LONG": 11.39326601
   },
   {
     "OBJECTID": 37,
@@ -515,6 +587,8 @@
     "GDP_2010_U": 4123,
     "CASES": 0,
     "DEATHS": 0,
-    "RECOVERED": 0
+    "RECOVERED": 0,
+    "LAT": 12.10150481,
+    "LONG": 6.246534746
   }
 ]

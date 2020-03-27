@@ -1,2 +1,4 @@
 # ignore specific file
+tools/
 tools/data_prep.ipynb
+*.ipynb_checkpoints

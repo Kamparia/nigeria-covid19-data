@@ -1,5 +1,6 @@
 # ignore specific file
-tools
 tools/.ipynb_checkpoints
+tools
+
 *.ipynb_checkpoints
 !*.ipynb_checkpoints

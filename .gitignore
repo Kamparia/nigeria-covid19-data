@@ -1,4 +1,5 @@
 # ignore specific file
 tools
+tools/.ipynb_checkpoints
 *.ipynb_checkpoints
 !*.ipynb_checkpoints

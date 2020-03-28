@@ -9,7 +9,7 @@ COVID-19 data summary in Nigeria as at March 28th, 2020
 
 | Total Tested    | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 | --------------- |:----------------:|:-------:|:----------:| -------------:|
-| 333             | 89               | 1       | 3          | 85            |
+| 333             | 97               | 1       | 3          | 93            |
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)

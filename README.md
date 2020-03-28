@@ -10,6 +10,7 @@ Cases summary in Nigeria as at March 27th, 2020
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)
+
 **Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)
 
 ### Data Sources

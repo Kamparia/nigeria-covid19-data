@@ -13,7 +13,7 @@ COVID-19 data summary in Nigeria as at March 27th, 2020
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)
-<img width="960" alt="Nigeria Novel Coronavirus (COVID-19) Public Data Insights" src="https://raw.githubusercontent.com/Kamparia/awesome_r_packages/master/img/data%20science%20with%20r.jpg">
+<img width="600" alt="Nigeria Novel Coronavirus (COVID-19) Public Data Insights" src="https://raw.githubusercontent.com/Kamparia/nigeria-covid19-data/master/images/operations-dashboard-sc-1.png">
 
 ### Analysis
 **Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)

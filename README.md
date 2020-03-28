@@ -9,7 +9,7 @@ COVID-19 data summary in Nigeria as at March 27th, 2020
 
 | Total Tested    | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 | --------------- |:----------------:|:-------:|:----------:| -------------:|
-| 333             | 81               | 1       | 3          | 77            |
+| 333             | 89               | 1       | 3          | 85            |
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)
@@ -31,4 +31,4 @@ I am hoping that this can become a collaborative and transparent project by some
 The dataset is free to use, and share given the appropriate credits are given. [LICENSE](https://github.com/Kamparia/nigeria-covid19-data/blob/master/LICENSE)
 
 ### Disclaimer
-All data and information are provided strictly for public consumption and general information. My aim is to keep the data as accurate as possible. The data are collated from NCDC official website and daily situational reports on COVID-19 cases in Nigeria. I will update that data once there is an official report or statement. If you find errors or misrepresentation in the datasets, please create a [GitHub Issue](https://help.github.com/en/github/managing-your-work-on-github/about-issues) or reach out to me.
+All data and information are provided strictly for public consumption and general information. My aim is to keep the data as accurate as possible. The data are collated from NCDC official website and daily situational reports on COVID-19 cases in Nigeria. I will update that data once there is an official report or statement. If you find errors or misrepresentation in the datasets, please create a [GitHub Issue](https://github.com/Kamparia/nigeria-covid19-data/issues/new/choose) or reach out to me.

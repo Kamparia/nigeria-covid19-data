@@ -1,6 +1,9 @@
 # ignore specific file
-tools/.ipynb_checkpoints
-tools*
+tools
 
-*.ipynb_checkpoints
-!*.ipynb_checkpoints
+# Mac
+.DS_Store
+
+# Jupyter notebook settings
+.ipynb_checkpoints
+

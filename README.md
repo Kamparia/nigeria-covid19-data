@@ -1,8 +1,11 @@
 # Nigeria Novel Coronavirus (COVID-19) Public Dataset
-This dataset contains the latest available public data on COVID-19 disease in Nigeria. On 11th of March, 2020, The World Health Organization (WHO) [declared the COVID-19 virus outbreak as a global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020). Even though the outbreak originated from Wuhan in China, its spread across the globe has been very rapid and demands actions informed by data. 
+
+The purpose of this repository is to collate data on the ongoing Coronavirus (COVID-19) pandemic in Nigeria. On 11th of March, 2020, The World Health Organization (WHO) [declared the COVID-19 virus outbreak as a global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020). Even though the outbreak originated from Wuhan in China, its spread in Nigeria and across the globe has been very rapid disrupting all human activities and social life. 
+
+This dataset contains the latest available public data on COVID-19 disease in Nigeria. My goal is to record detailed information on confirmed cases of COVID-19 accross the nation and produce amazing visual insights that can be used to make informed decisions in the fight against COVID-19 in Nigeria. The data will be obtained from official sources only (e.g. NCDC).
 
 ### Data Summary
-Cases summary in Nigeria as at March 27th, 2020
+COVID-19 data summary in Nigeria as at March 27th, 2020
 
 | Total Tested    | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 | --------------- |:----------------:|:-------:|:----------:| -------------:|
@@ -10,7 +13,9 @@ Cases summary in Nigeria as at March 27th, 2020
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)
+<img width="960" alt="Nigeria Novel Coronavirus (COVID-19) Public Data Insights" src="https://raw.githubusercontent.com/Kamparia/awesome_r_packages/master/img/data%20science%20with%20r.jpg">
 
+### Analysis
 **Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)
 
 ### Data Sources
@@ -20,7 +25,10 @@ This dataset is collected from official statements presented by [Nigeria Centre 
 I will try my best to update the dataset and produce amazing visualization products as often as neccessary (based on the in-flow of new data).
 
 ### Contribution
-I am hoping that this can become a collaborative and transparent project by some of the best data analysts and scientists in Nigerians. Interested contributors can reach on [Twitter](https://twitter.com/kamparia).
+I am hoping that this can become a collaborative and transparent project by some of the best data analysts and scientists in Nigerians. Interested contributors can reach on [LinkedIn](https://www.linkedin.com/in/kamparia/).
 
 ### Data Usage
 The dataset is free to use and share given the appropriate credits are given. [LICENSE](https://github.com/Kamparia/nigeria-covid19-data/blob/master/LICENSE)
+
+### Disclaimer
+All data and information are provided strictly for public consumption and general information. My aim is to keep the data as accurate as possible. The data are collated from NCDC official website and daily situational reports on COVID-19 cases in Nigeria. I will update that data once there is an official report or statement. If you find errors or mis-representation in the datasets, please make a pull request or contact me.

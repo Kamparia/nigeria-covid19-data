@@ -6,7 +6,7 @@ Cases summary in Nigeria as at March 27th, 2020
 
 | Total Tested    | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 | --------------- |:----------------:|:-------:|:----------:| -------------:|
-| 333             | 65               | 1       | 3          | 61            |
+| 333             | 81               | 1       | 3          | 77            |
 
 ### Visualization
 [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/CSP1X)

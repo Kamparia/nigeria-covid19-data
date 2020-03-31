@@ -8,7 +8,7 @@ This dataset contains the latest available public data on COVID-19 disease in Ni
 COVID-19 data summary in Nigeria as at March 31th, 2020
 
 | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
-| ----------------:|:-------:|:----------:| -------------:|
+|:-----------------|:-------:|:----------:| -------------:|
 | 135              | 2       | 8          | 125           |
 
 ### Visualization

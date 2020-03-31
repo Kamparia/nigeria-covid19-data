@@ -1,7 +1,7 @@
 SN,NAME,ADDRESS,STATE,CITY,PHONE,WEBSITE,STATUS,LATITUDE,LONGITUDE
-1,Lagos University Teaching Hospital,"Ishaga Rd, Idi-Araba, Lagos, Nigeria",Lagos,Lagos,+2348070591395,http://luth.org.ng,Active,6.517652,3.353712
-2,Nigeria Institute for Medical Research (NIMR),"Medical Compound, 6 Edmund Cres, Yaba, Nigeria",Lagos,Lagos,+23417744723,http://nimr.gov.ng,Active,6.515177,3.370576
-3,University College Hospital (UCH),"Layi Ayanniyi Street, Ibadan, Nigeria",Oyo,Ibadan,+2347008244357,https://uch-ibadan.org.ng,Active,7.356931,3.874326
-4,African Centre of Excellence for Genomics of Infectious Diseases (ACEGID),"Oloki/Akoda, Nigeria",Osun,Ede,+2348068528936,https://acegid.org/,Active,7.682692,4.458675
-5,NCDC National Reference Laboratory,"801 Ebitu Ukiwe St, Jabi, Abuja, Nigeria","FCT, Abuja",Abuja,+23480097000010,http://ncdc.gov.ng,Active,9.070807,7.433299
-6,Irrua Specialist Teaching Hospital,"KM 87 Benin Auchi Rd, Irrua, Nigeria",Edo,Irrua,+2348055757757,https://isth.com.ng,Active,6.731861,6.189695
+1,Lagos University Teaching Hospital,"Ishaga Rd, Idi-Araba, Lagos, Nigeria",Lagos,Lagos,2.34807E+12,http://luth.org.ng,Active,6.517652,3.353712
+2,Nigeria Institute for Medical Research (NIMR),"Medical Compound, 6 Edmund Cres, Yaba, Nigeria",Lagos,Lagos,23417744723,http://nimr.gov.ng,Active,6.515177,3.370576
+3,University College Hospital (UCH),"Layi Ayanniyi Street, Ibadan, Nigeria",Oyo,Ibadan,2.34701E+12,https://uch-ibadan.org.ng,Active,7.356931,3.874326
+4,African Centre of Excellence for Genomics of Infectious Diseases (ACEGID),"Oloki/Akoda, Nigeria",Osun,Ede,2.34807E+12,https://acegid.org/,Active,7.682692,4.458675
+5,NCDC National Reference Laboratory,"801 Ebitu Ukiwe St, Jabi, Abuja, Nigeria","FCT, Abuja",Abuja,2.34801E+13,http://ncdc.gov.ng,Active,9.070807,7.433299
+6,Irrua Specialist Teaching Hospital,"KM 87 Benin Auchi Rd, Irrua, Nigeria",Edo,Irrua,2.34806E+12,https://isth.com.ng,Active,6.731861,6.189695

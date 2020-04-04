@@ -9,7 +9,7 @@ COVID-19 data summary in Nigeria as at 10:30 AM, 3rd of April, 2020.
 
 | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 |:-----------------|:-------:|:----------:| -------------:|
-| 210              | 4       | 25         | 181           |
+| 209              | 4       | 25         | 180           |
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/0z0KSu)

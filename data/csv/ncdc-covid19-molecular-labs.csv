@@ -6,3 +6,4 @@ SN,NAME,ADDRESS,STATE,CITY,WEBSITE,STATUS,LATITUDE,LONGITUDE
 5,NCDC National Reference Laboratory,"801 Ebitu Ukiwe St, Jabi, Abuja, Nigeria","FCT, Abuja",Abuja,http://ncdc.gov.ng,Active,9.070807,7.433299
 6,Irrua Specialist Teaching Hospital,"KM 87 Benin Auchi Rd, Irrua, Nigeria",Edo,Irrua,https://isth.com.ng,Active,6.731861,6.189695
 7,Alex Ekwueme Federal Teaching Hospital,"FMC Rd, Abakaliki, Nigeria",Ebonyi,Abakaliki,https://www.aefutha.gov.ng/,Active,6.331656,8.107971
+8,Lagos State Biosafety Level-3 Laboratory,"Yaba, Lagos",Lagos,Lagos,,Active,6.503004,3.365085

@@ -17,7 +17,7 @@ COVID-19 data summary in Nigeria as at 11:25 PM, 22nd of April, 2020.
 <img width="600" alt="Nigeria Novel Coronavirus (COVID-19) Public Data Insights" src="https://raw.githubusercontent.com/Kamparia/nigeria-covid19-data/master/images/operations-dashboard-sc-1.png">
 
 ### Analysis
-**Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)
+**Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) - Exploratory Data Analysis (EDA).](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)
 
 ### Data Sources
 This dataset is collected from official statements presented by [Nigeria Centre for Disease Control (NCDC)](http:covid19.ncdc.gov.ng).

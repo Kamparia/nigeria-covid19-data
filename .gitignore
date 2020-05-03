@@ -1,5 +1,7 @@
 # ignore specific file
 tools
+tools/tmp
+tools/tmp*
 
 # Mac
 .DS_Store

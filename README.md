@@ -5,11 +5,11 @@ The purpose of this repository is to collate data on the ongoing Coronavirus (CO
 This dataset contains the latest available public data on COVID-19 disease in Nigeria. My goal is to record detailed information on confirmed cases of COVID-19 across the nation and produce amazing visual insights that can be used to make informed decisions in the fight against COVID-19 in Nigeria. The data will be obtained from official sources only (e.g. NCDC).
 
 ### Data Summary
-COVID-19 data summary in Nigeria as at 11:59 PM, 8th of June, 2020.
+COVID-19 data summary in Nigeria as at 11:59 PM, 9th of June, 2020.
 
 | Samples Tested  | Confirmed Cases  | Deaths  | Recovered  | Active Cases  |
 |:----------------|:----------------:|:-------:|:----------:| -------------:|
-| 78,244          | 12,801           | 361     | 4,040      | 8,400         |
+| 79,948          | 13,464           | 365     | 4,206      | 8,893         |
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/0z0KSu)

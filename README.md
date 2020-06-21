@@ -12,9 +12,9 @@ COVID-19 data summary in Nigeria as at 11:59 PM, 20th of June, 2020.
 | 111,052         | 19,808           | 506     | 6,718      | 12,584        |
 
 ### Visualization
-**Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Public Data Insights.](http://arcg.is/0z0KSu)
+**Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Data Explorer App.](https://nigeria-covid-explorer.herokuapp.com/)
 
-<img width="600" alt="Nigeria Novel Coronavirus (COVID-19) Public Data Insights" src="https://raw.githubusercontent.com/Kamparia/nigeria-covid19-data/master/images/operations-dashboard-sc-1.png">
+<img width="600" alt="Nigeria Novel Coronavirus (COVID-19) Data Explorer App." src="https://raw.githubusercontent.com/Kamparia/nigeria-covid19-data/master/images/operations-dashboard-sc-2.png">
 
 ### Analysis
 **Python Notebook:** [Nigeria Novel Coronavirus (COVID-19) - Exploratory Data Analysis (EDA).](https://colab.research.google.com/drive/1ksePcNERfJgT9PxrCAYXLq_6zJ1qwemQ)

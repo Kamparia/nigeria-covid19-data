@@ -8,4 +8,6 @@ tools/tmp*
 
 # Jupyter notebook settings
 .ipynb_checkpoints
+tools/.ipynb_checkpoints
+tools/.ipynb_checkpoints/
 

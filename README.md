@@ -9,7 +9,7 @@ COVID-19 data summary in Nigeria as at 11:59 PM, 28th of September, 2020.
 
 | Samples Tested  | Confirmed Cases  | Deaths      | Discharged Cases  | Active Cases  |
 |:----------------|:----------------:|:-----------:|:-----------------:| -------------:|
-| 509,555         | 58,460           | 1,111       | 49,895            | 7,454         |
+| 509,555         | 58,647           | 1,111       | 49,937            | 7,599         |
 
 ### Visualization
 **Interactive Dashboard:** [Nigeria Novel Coronavirus (COVID-19) Data Explorer App.](https://nigeria-covid-explorer.herokuapp.com/)
